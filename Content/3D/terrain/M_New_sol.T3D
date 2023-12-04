@@ -1,0 +1,454 @@
+Begin Object Class=/Script/Engine.Material Name="M_New_sol" ExportPath="/Script/Engine.Material'/Game/new_rock/M_New_sol.M_New_sol'"
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_12" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_12'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2" ExportPath="/Script/Engine.MaterialExpressionTextureSample'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureSample_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_11" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionConstant3Vector_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureCoordinate_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_0" ExportPath="/Script/Engine.MaterialExpressionTextureObject'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureObject_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_9" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_8" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureSampleParameter2D_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_7" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_5" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureCoordinate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_0" ExportPath="/Script/Engine.MaterialExpressionTextureObjectParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureObjectParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionConstant3Vector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_0" ExportPath="/Script/Engine.MaterialExpressionClamp'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionClamp_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_0" ExportPath="/Script/Engine.MaterialExpressionFresnel'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionFresnel_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="M_New_solEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/new_rock/M_New_sol.M_New_sol:M_New_solEditorOnlyData'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_2'"
+      SizeX=1152
+      SizeY=640
+      Text="Curvature"
+      MaterialExpressionEditorX=-2339
+      MaterialExpressionEditorY=843
+      MaterialExpressionGuid=FD027B6743684F1C227C8980A5A9F517
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_1'"
+      SizeX=656
+      SizeY=352
+      Text="World_Space_Normal"
+      MaterialExpressionEditorX=-1843
+      MaterialExpressionEditorY=475
+      MaterialExpressionGuid=57B273454D474FAD15BBF493D05FC696
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionComment_0'"
+      SizeX=1152
+      SizeY=480
+      Text="noise"
+      MaterialExpressionEditorX=-2336
+      MaterialExpressionEditorY=-16
+      MaterialExpressionGuid=EC454BA34EF197E247B7ECB038ED0695
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_12" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_12'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_5'")
+      ConstB=2.000000
+      MaterialExpressionEditorX=-768
+      MaterialExpressionEditorY=1376
+      MaterialExpressionGuid=867230BA4E86D50C724233BDC1A1900F
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2" ExportPath="/Script/Engine.MaterialExpressionTextureSample'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureSample_2'"
+      MaterialExpressionEditorX=-1536
+      MaterialExpressionEditorY=1504
+      MaterialExpressionGuid=F8F83F74481A932410911B8D77DDF66E
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_11" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_11'"
+      ConstAlpha=1.000000
+      MaterialExpressionEditorX=-912
+      MaterialExpressionEditorY=1024
+      MaterialExpressionGuid=4D8E942B4741D00AB227078D9C627D5E
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_9'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_8'")
+      ConstB=2.000000
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=960
+      MaterialExpressionGuid=AF1FF88649DA8464B2764B9AEA237211
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_8'"
+      A=(Expression="/Script/Engine.MaterialExpressionConstant3Vector'M_New_sol:MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      ConstB=0.900000
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=E7BD305640D241AC9709CA89A9549A69
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionConstant3Vector_1'"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=192
+      MaterialExpressionEditorY=704
+      MaterialExpressionGuid=5FEA50A24D10C38A288BDF8C7020F3ED
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_0'"
+      DefaultValue=0.010000
+      ParameterName="Distance (S)"
+      ExpressionGUID=024F5DA84A5D6BBED82E3BBC4DF5CA2F
+      MaterialExpressionEditorX=-2051
+      MaterialExpressionEditorY=347
+      MaterialExpressionGuid=21BF28F946501249A98ED88292754246
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureCoordinate_1'"
+      MaterialExpressionEditorX=-2275
+      MaterialExpressionEditorY=155
+      MaterialExpressionGuid=C8E802FC41A68F9CFF2E8781456479B5
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_0" ExportPath="/Script/Engine.MaterialExpressionTextureObject'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureObject_0'"
+      Texture="/Script/Engine.Texture2D'/Engine/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.T_CleanFloorGrunge_01_D'"
+      MaterialExpressionEditorX=-2003
+      MaterialExpressionEditorY=139
+      MaterialExpressionGuid=F77E84664BD0DA9B5B35258D8E4B8577
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_5'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-Texture.SpiralBlur-Texture'"
+      FunctionInputs(0)=(ExpressionInputId=4BF03A9043B9EDCA764E998BB287F5B3,Input=(Expression="/Script/Engine.MaterialExpressionTextureObject'M_New_sol:MaterialExpressionTextureObject_0'",InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=7A92718048B8283B141C7E995006F0F9,Input=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_1'",InputName="UV"))
+      FunctionInputs(2)=(ExpressionInputId=7CC6063741354B194A27C5BFBF5AEFC6,Input=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_0'",InputName="Distance"))
+      FunctionInputs(3)=(ExpressionInputId=999268474CE8F923FC5CA297555C451B,Input=(OutputIndex=-1,InputName="Distance Steps"))
+      FunctionInputs(4)=(ExpressionInputId=2D450737453F92D15333EDA2A8A9C9FB,Input=(OutputIndex=-1,InputName="Radial Steps"))
+      FunctionInputs(5)=(ExpressionInputId=E0C339BD412802ACF8D1CFA66E382F99,Input=(OutputIndex=-1,InputName="Radial Offset"))
+      FunctionInputs(6)=(ExpressionInputId=729AEDD6469F6A91D595A0B2471F510C,Input=(OutputIndex=-1,InputName="Kernel Power"))
+      FunctionOutputs(0)=(ExpressionOutputId=F121DEB046D973F044644E80BD424FF0,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1763
+      MaterialExpressionEditorY=123
+      MaterialExpressionGuid=014D478543E0C2F67B6949820B947AE6
+      Material="/Script/Engine.Material'M_New_sol'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_9" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_9'"
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_5'")
+      MaterialExpressionEditorX=-1507
+      MaterialExpressionEditorY=123
+      MaterialExpressionGuid=97C7369B4A79EA689DE80092C4702BE0
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionConstant3Vector'M_New_sol:MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      ConstB=1.200000
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=-688
+      MaterialExpressionGuid=E1AF87454AE09165039A269101DDED0A
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_8" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_8'"
+      Alpha=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_6'")
+      ConstA=1.000000
+      ConstB=-1.000000
+      MaterialExpressionEditorX=48
+      MaterialExpressionEditorY=1216
+      MaterialExpressionGuid=A2402624427BF38C5E85E99631AA70E7
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureSampleParameter2D_0'"
+      ParameterName="World_Space_Normal_Map"
+      ExpressionGUID=4C0CA054437F880803E81BA0A1A8C97F
+      Texture="/Script/Engine.Texture2D'/Game/new_rock/Material_001_world_space_normals.Material_001_world_space_normals'"
+      MaterialExpressionEditorX=-1793
+      MaterialExpressionEditorY=525
+      MaterialExpressionGuid=EC2A54394C5DADF45BDCDFA8E45ADCF7
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_0'")
+      ConstB=0.000000
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=-160
+      MaterialExpressionGuid=6A8D848B426FECE5691628B7E9F1D25B
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_7" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_4'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_9'")
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=-128
+      MaterialExpressionGuid=735101CC445388E8FC2D62824089FE9A
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_3'"
+      B=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_12'")
+      ConstA=2.000000
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=1280
+      MaterialExpressionGuid=2D0E097C48B8CE9A352DC8922AE1F8E1
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_5" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_5'"
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_1'")
+      ConstA=1.000000
+      ConstB=-1.000000
+      MaterialExpressionEditorX=-1216
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=9F58EEEE4CD28B9833C9F8BD96F9B724
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_3'"
+      DefaultValue=0.010000
+      ParameterName="Param_1"
+      ExpressionGUID=22D3AFFC4F23E2CEA0D7838F0015AB8A
+      MaterialExpressionEditorX=-1987
+      MaterialExpressionEditorY=1355
+      MaterialExpressionGuid=E8CBD998450484ED2A340C8EC2B14883
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_1'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-Texture.SpiralBlur-Texture'"
+      FunctionInputs(0)=(ExpressionInputId=4BF03A9043B9EDCA764E998BB287F5B3,Input=(Expression="/Script/Engine.MaterialExpressionTextureObjectParameter'M_New_sol:MaterialExpressionTextureObjectParameter_0'",InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=7A92718048B8283B141C7E995006F0F9,Input=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_0'",InputName="UV"))
+      FunctionInputs(2)=(ExpressionInputId=7CC6063741354B194A27C5BFBF5AEFC6,Input=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_3'",InputName="Distance"))
+      FunctionInputs(3)=(ExpressionInputId=999268474CE8F923FC5CA297555C451B,Input=(OutputIndex=-1,InputName="Distance Steps"))
+      FunctionInputs(4)=(ExpressionInputId=2D450737453F92D15333EDA2A8A9C9FB,Input=(OutputIndex=-1,InputName="Radial Steps"))
+      FunctionInputs(5)=(ExpressionInputId=E0C339BD412802ACF8D1CFA66E382F99,Input=(OutputIndex=-1,InputName="Radial Offset"))
+      FunctionInputs(6)=(ExpressionInputId=729AEDD6469F6A91D595A0B2471F510C,Input=(OutputIndex=-1,InputName="Kernel Power"))
+      FunctionOutputs(0)=(ExpressionOutputId=F121DEB046D973F044644E80BD424FF0,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1584
+      MaterialExpressionEditorY=1216
+      MaterialExpressionGuid=892708974D581359B801A58D141EB255
+      Material="/Script/Engine.Material'M_New_sol'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_8'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_1'")
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=6852B9294059CF4F1A7571B7B6A2382C
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionScalarParameter_1'"
+      DefaultValue=3.000000
+      ExpressionGUID=D08BBA5B4D1B858A4EBE158C93CE8B64
+      MaterialExpressionEditorX=-2003
+      MaterialExpressionEditorY=907
+      MaterialExpressionGuid=9119E4D04D0F522EC56D7AAC3FE568D1
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureCoordinate_0'"
+      MaterialExpressionEditorX=-2304
+      MaterialExpressionEditorY=1120
+      MaterialExpressionGuid=57B1AF3843B091466BC89F9BED688DCA
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_0" ExportPath="/Script/Engine.MaterialExpressionTextureObjectParameter'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionTextureObjectParameter_0'"
+      ParameterName="Curvature_Map"
+      ExpressionGUID=C8BE35B648C37F99141932A8D7D4551A
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_0'")
+      Texture="/Script/Engine.Texture2D'/Game/new_rock/Thickness_map.Thickness_map'"
+      MaterialExpressionEditorX=-2000
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=9871224A46C32E50557FAAB09A7C5152
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-Texture.SpiralBlur-Texture'"
+      FunctionInputs(0)=(ExpressionInputId=4BF03A9043B9EDCA764E998BB287F5B3,Input=(Expression="/Script/Engine.MaterialExpressionTextureObjectParameter'M_New_sol:MaterialExpressionTextureObjectParameter_0'",InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=7A92718048B8283B141C7E995006F0F9,Input=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_0'",InputName="UV"))
+      FunctionInputs(2)=(ExpressionInputId=7CC6063741354B194A27C5BFBF5AEFC6,Input=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_1'",InputName="Distance"))
+      FunctionInputs(3)=(ExpressionInputId=999268474CE8F923FC5CA297555C451B,Input=(OutputIndex=-1,InputName="Distance Steps"))
+      FunctionInputs(4)=(ExpressionInputId=2D450737453F92D15333EDA2A8A9C9FB,Input=(OutputIndex=-1,InputName="Radial Steps"))
+      FunctionInputs(5)=(ExpressionInputId=E0C339BD412802ACF8D1CFA66E382F99,Input=(OutputIndex=-1,InputName="Radial Offset"))
+      FunctionInputs(6)=(ExpressionInputId=729AEDD6469F6A91D595A0B2471F510C,Input=(OutputIndex=-1,InputName="Kernel Power"))
+      FunctionOutputs(0)=(ExpressionOutputId=F121DEB046D973F044644E80BD424FF0,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1683
+      MaterialExpressionEditorY=904
+      MaterialExpressionGuid=7691643B4CBC004EE208A6AEDA5ECE19
+      Material="/Script/Engine.Material'M_New_sol'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_3'")
+      MaterialExpressionEditorX=-656
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=8DF695684A9DDC4B20BFB29F6BC3C0F9
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_3'"
+      A=(Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_0'")
+      MaterialExpressionEditorX=-1411
+      MaterialExpressionEditorY=907
+      MaterialExpressionGuid=01036D1E47DB99CBAAD9F0A96CE5A219
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_7'")
+      ConstB=0.800000
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=C540007C4BB2055D41BEB58FABDC146A
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_7'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_1'")
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=E3C1AC5448616FB73850D4B6540D9F1C
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_1'"
+      A=(OutputIndex=2,Mask=1,MaskG=1)
+      Alpha=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_New_sol:MaterialExpressionTextureSampleParameter2D_0'",OutputIndex=2,Mask=1,MaskG=1)
+      ConstA=-1.000000
+      MaterialExpressionEditorX=-1425
+      MaterialExpressionEditorY=525
+      MaterialExpressionGuid=CA1160FE47D0DFD19EAE2FA266EAB9ED
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_7'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant3Vector'M_New_sol:MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression="/Script/Engine.MaterialExpressionClamp'M_New_sol:MaterialExpressionClamp_0'")
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=-464
+      MaterialExpressionGuid=7880F7234122EEB57D91CE9EEE075561
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionConstant3Vector_0'"
+      Constant=(R=0.111932,G=0.219526,B=0.391572,A=1.000000)
+      MaterialExpressionEditorX=-1760
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=5EC927A84DCA0C3B104802847EC8FED1
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0" ExportPath="/Script/Engine.MaterialExpressionClamp'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionClamp_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionFresnel'M_New_sol:MaterialExpressionFresnel_0'")
+      MaxDefault=0.500000
+      MaterialExpressionEditorX=-1328
+      MaterialExpressionEditorY=-336
+      MaterialExpressionGuid=0647220E45D1570C73CAF48C97318605
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_0" ExportPath="/Script/Engine.MaterialExpressionFresnel'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionFresnel_0'"
+      Exponent=1.500000
+      MaterialExpressionEditorX=-1634
+      MaterialExpressionEditorY=-334
+      MaterialExpressionGuid=1D4E9B72433451A5EB1A72B618AF7DA7
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionMultiply_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_8'")
+      MaterialExpressionEditorX=272
+      MaterialExpressionEditorY=1216
+      MaterialExpressionGuid=5898C4914494E04FEF9E2C9216BCD03D
+      Material="/Script/Engine.Material'M_New_sol'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/new_rock/M_New_sol.M_New_sol:MaterialExpressionLinearInterpolate_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_9'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_3'")
+      MaterialExpressionEditorX=-48
+      MaterialExpressionEditorY=976
+      MaterialExpressionGuid=C143BABC414E0E6BBD233898496A6F74
+      Material="/Script/Engine.Material'M_New_sol'"
+   End Object
+   Begin Object Name="M_New_solEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/new_rock/M_New_sol.M_New_sol:M_New_solEditorOnlyData'"
+      BaseColor=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_6'")
+      Roughness=(Expression="/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_2'")
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_6'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_2'","/Script/Engine.MaterialExpressionFresnel'M_New_sol:MaterialExpressionFresnel_0'","/Script/Engine.MaterialExpressionClamp'M_New_sol:MaterialExpressionClamp_0'","/Script/Engine.MaterialExpressionConstant3Vector'M_New_sol:MaterialExpressionConstant3Vector_0'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_0'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_1'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_2'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_3'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionTextureObjectParameter'M_New_sol:MaterialExpressionTextureObjectParameter_0'","/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_1'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_4'","/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_3'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_5'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_3'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_7'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_4'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_New_sol:MaterialExpressionTextureSampleParameter2D_0'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_8'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_7'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_9'","/Script/Engine.MaterialExpressionMaterialFunctionCall'M_New_sol:MaterialExpressionMaterialFunctionCall_5'","/Script/Engine.MaterialExpressionTextureObject'M_New_sol:MaterialExpressionTextureObject_0'","/Script/Engine.MaterialExpressionTextureCoordinate'M_New_sol:MaterialExpressionTextureCoordinate_1'","/Script/Engine.MaterialExpressionScalarParameter'M_New_sol:MaterialExpressionScalarParameter_0'","/Script/Engine.MaterialExpressionConstant3Vector'M_New_sol:MaterialExpressionConstant3Vector_1'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_8'","/Script/Engine.MaterialExpressionMultiply'M_New_sol:MaterialExpressionMultiply_9'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_11'","/Script/Engine.MaterialExpressionTextureSample'M_New_sol:MaterialExpressionTextureSample_2'","/Script/Engine.MaterialExpressionLinearInterpolate'M_New_sol:MaterialExpressionLinearInterpolate_12'"),EditorComments=("/Script/Engine.MaterialExpressionComment'M_New_sol:MaterialExpressionComment_0'","/Script/Engine.MaterialExpressionComment'M_New_sol:MaterialExpressionComment_1'","/Script/Engine.MaterialExpressionComment'M_New_sol:MaterialExpressionComment_2'"))
+      ParameterGroupData(0)=(GroupName="None")
+      ParameterGroupData(1)=(GroupName="None")
+      ParameterGroupData(2)=(GroupName="None")
+      ParameterGroupData(3)=(GroupName="None")
+      ParameterGroupData(4)=(GroupName="None")
+   End Object
+   EditorX=496
+   EditorY=992
+   bCanMaskedBeAssumedOpaque=True
+   StateId=38FE626D4D64D435D71D1A97D5B8EF7C
+   ReferencedTextureGuids(0)=E422DC494842C25621D3F79566E5C59A
+   ReferencedTextureGuids(1)=25BC707A45305CB1661F1EAE941D5F07
+   ReferencedTextureGuids(2)=AD2B31624B5C51C60EB5758B00F276FD
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'M_New_solEditorOnlyData'"
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Material_001_world_space_normals",TextureReference="/Game/new_rock/Material_001_world_space_normals.Material_001_world_space_normals")
+   ParameterOverviewExpansion=(("-12Global", True))
+   LightingGuid=22D09ECC40DC71ED0B92E780DED74F6B
+End Object
